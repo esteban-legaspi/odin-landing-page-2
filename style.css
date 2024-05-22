@@ -16,6 +16,7 @@ body {
     flex-direction: column;
     height: 300px;
     width: 650px;
+    justify-content: space-between;
 }
 
 .header {
