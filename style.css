@@ -9,4 +9,7 @@ body {
     justify-content: center;
     padding: 15px;
 }
+
+.header {
+    display: flex;
 }
