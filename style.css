@@ -32,6 +32,10 @@ ul {
     gap: 15px;
 }
 
+.content-body {
+    display: flex;
+}
+
 .image-placeholder {
     background-color: gray;
     height: 175px;
