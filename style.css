@@ -42,3 +42,8 @@ ul {
     height: 175px;
     width: 475px;
 }
+
+.logo {
+    font-size: 24px;
+    color: rgb(255, 65, 65);
+}
