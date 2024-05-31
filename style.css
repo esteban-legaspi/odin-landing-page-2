@@ -66,4 +66,5 @@ ul {
     padding-inline: 16px;
     padding-block: 5px;
     border: none;
+    border-radius: 5px;
 }
