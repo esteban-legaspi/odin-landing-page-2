@@ -10,6 +10,7 @@ body {
     justify-content: center;
     padding: 15px;
     height: 425px;
+    flex-direction: column;
 }
 
 .content {
