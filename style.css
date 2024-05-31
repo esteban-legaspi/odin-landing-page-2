@@ -71,3 +71,7 @@ ul {
     color: white;
     font-weight: bold;
 }
+
+.second-section {
+    display: flex;
+}
