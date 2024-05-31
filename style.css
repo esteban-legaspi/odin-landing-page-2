@@ -13,7 +13,7 @@ body {
     flex-direction: column;
 }
 
-.content {
+.first-section .content {
     display: flex;
     flex-direction: column;
     height: 300px;
