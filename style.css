@@ -41,7 +41,7 @@ ul {
 
 .image-placeholder {
     background-color: gray;
-    height: 175px;
+    height: auto;
     width: 475px;
 }
 
